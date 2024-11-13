@@ -1,7 +1,7 @@
 # Curso Em Video HTML e CSS do Gustavo Guanabara
 ### Aqui ficará registrado as minhas anotações, tentarei anotar, com conteudo dos Materiais do Curso Em Video HTML e CSS do Gustavo Guanabara.
 
-# Modulo 01
+# Módulo 01
 #### Em C:\dosanjosdeveloper\learning\Curso em  Video HTML e CSS\Curso em Video -  HTML e CSS\Módulo_01\01_MyFirstPageHTML\index.hatml
 
 <p> Foi apresentada algumas TAGs no HTML como;
